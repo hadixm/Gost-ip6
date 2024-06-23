@@ -127,8 +127,9 @@ systemctl enable sysctl-custom
     else
         if [ "$gost_version_choice" -eq 2 ]; then
     echo $'\e[32mInstalling Gost version 3.0.0, please wait...\e[0m'
+    cd
     bash <(curl -fsSL https://github.com/go-gost/gost/raw/master/install.sh) --install
-    tar -xvzf /tmp/gost.tar.gz -C /usr/local/bin/
+    tar -xvzf /root/gost.tar.gz -C /usr/local/bin/
     chmod +x /usr/local/bin/gost
     echo $'\e[32mGost installed successfully.\e[0m'
 else
