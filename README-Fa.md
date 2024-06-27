@@ -27,7 +27,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/MHMahdian/Gost-ip6/main/instal
  نسخه سفارشی:
 
 ```bash
-bash <(curl -Ls https://github.com/masoudgb/Gost-ip6/raw/v2.1.7/Gost.sh)
+bash <(curl -Ls https://github.com/MHMahdian/Gost-ip6/raw/v2.1.7/Gost.sh)
    ```
 
 
