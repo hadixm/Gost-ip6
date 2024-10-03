@@ -38,11 +38,9 @@ Follow the on-screen prompts to configure Gost tunnels according to your prefere
 
 ## Project Tutorial
 
-[![YouTube Tutorial](https://img.youtube.com/vi/LJYVWH8GyKM/0.jpg)](https://youtu.be/LJYVWH8GyKM)
 
 ---
 
-[![YouTube Tutorial](https://img.youtube.com/vi/Qlz61mlkQ5A/0.jpg)](https://youtu.be/Qlz61mlkQ5A)
 
 
 **Options:**
